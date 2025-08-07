@@ -23,6 +23,9 @@
 | `How` 🔵 | Como | `?` |
 | `Why`  🟡 | Por que | `?` |
 
-## Special Cases
+### Special Cases
 * `How much are ... ?` Cuanto cuestan ...?
 * `What is your father?` Cual es tu padre?
+
+## Short Answers (Syntax)
+`Yes, he is` / `No, he's` / `No isn't`
