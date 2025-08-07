@@ -144,3 +144,8 @@
 | `early` | temprano |
 | `coat` | abrigo |
 | `hands` | manos |
+| `well` | bien |
+| `shoes` | zapatos/calzado |
+| `measure` | medir |
+| `near` | cerca de |
+| `her` | su |
