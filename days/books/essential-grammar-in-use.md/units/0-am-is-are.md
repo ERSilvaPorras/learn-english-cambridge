@@ -14,7 +14,7 @@
 ## Negative `personal pronoum` + `verb to - present` + `not`
 | personal pronoums | verbo to be | short forms |
 | ----------------- | ----------- | ---------- |
-| I | `am not` 🟢 | `I'm not`  or |
+| I | `am not` 🟢 | `I'm not` |
 | he | `is not` 🔵 | `he's not`  or  `he isn't` |
 | she | `is not` 🔵 | `she's not`  or `she isn't` |
 | it | `is not` 🔵 | `it's not`  or `it isn't` |

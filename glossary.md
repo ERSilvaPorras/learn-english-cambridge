@@ -1,4 +1,3 @@
-
 | Concept | Description |
 | --- | --- |
 | `already` | ya |
@@ -47,7 +46,7 @@
 | `have` | tiene/n |
 | `forgotten` | oldidado/a |
 | `are not in` | no estan |
-| `hear` | eschar |
+| `hear` | escuchar |
 | `who` | quien/a quien |
 | `as well` | tambien/ademas |
 | `Here` | Aqui / en |
@@ -149,3 +148,19 @@
 | `measure` | medir |
 | `near` | cerca de |
 | `her` | su |
+| `wear` | desgaste/uso/usar/llevar |
+| `spelling` | ortografia |
+| `vowel` | vocal |
+| `consonant` | consonante |
+| `sit` | sentar |
+| `lie` | mentir/estar/tumbarse/tenderse/yacer/encontrarse/acostarse |
+| `floor` | suelo |
+| `holiday` | vacaciones |
+| `cook` | cocinar |
+| `happen` | suceder |
+| `happening` | sucediendo |
+| `lawyer` | abogad@ |
+| `laugh` | reir |
+| `shine` | brillar |
+| `shop` | tienda |
+| `newspaper` | periodico |
