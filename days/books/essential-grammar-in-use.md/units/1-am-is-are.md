@@ -11,7 +11,7 @@
 | you | `are` 🟡 | `you're` |
 | they | `are` 🟡 | `they're` |
 
-## Negative `personal pronoum` + `verb to - present` + `not`
+## 🔴 Negative `personal pronoum` + `verb to - present` + `not`
 | personal pronoums | verbo to be | short forms |
 | ----------------- | ----------- | ---------- |
 | I | `am not` 🟢 | `I'm not` |
@@ -22,7 +22,7 @@
 | you | `are not` 🟡 | `you're not`  or `you aren't` |
 | they | `are not` 🟡 | `they're not`  or `they aren't` |
 
-## 
+## Special Cases
 | `that is` |  `that's` |  Señalar algo un poco lejos | eso/ese/esa | 
 | `there is` | `there's` | Decir que algo existe o esta presente | hay/aqui esta |
 | `here is` | `here's` | Entregar o mostrar algo cercano | aqui esta/aca tenes |

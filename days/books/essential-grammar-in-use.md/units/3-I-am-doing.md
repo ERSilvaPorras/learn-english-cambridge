@@ -1,6 +1,16 @@
-## I am doing - (present continuous)
-- El presente continuo sigue la siguiente sintaxis: **`am/is/are` + `doing/eating`** etc.
-- Son las acciones que estamos realizando justo ahora(`now`).
+# I am doing - (present continuous)
+
+## Presente Continuous
+📌 ¿Cuándo se usa?
+- Para acciones que están ocurriendo ahora mismo:
+    > I'm studying English right now.
+- Para acciones temporales:
+    > She’s staying with her friend this week.
+- Para planes futuros confirmados:
+    > We’re meeting him tomorrow.
+
+## Sintaxis
+`am/is/are` + `doing/eating`** etc.
 
 | Personal Pronoum | Present Continuos | 
 | ---------------- | ----------------- |

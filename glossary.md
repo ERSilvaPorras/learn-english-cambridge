@@ -164,3 +164,21 @@
 | `shine` | brillar |
 | `shop` | tienda |
 | `newspaper` | periodico |
+| `feel` | sentir |
+| `umbrella` | paraguas |
+| `broken` | roto |
+| `clock` | reloj |
+| `look at` | mirar algo especifico |
+| `make` | producir/crear |
+| `do` | hacer algo en gral |
+| `made` | producido/creado |
+| `teach` | enseñar |
+| `arrive` | llegar |
+| `young` | joven |
+| `dirty` | sucio |
+| `expensive` | costoso |
+| `boil` | hervir |
+| `same` | mismo |
+| `ring` | anillo |
+| `quiet` | tranquil@/silencios@/callad@ |
+| `meat` | carne |
