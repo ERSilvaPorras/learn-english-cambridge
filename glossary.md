@@ -15,6 +15,7 @@
 | `know` [nou] - saber / conocer | `knew` [niu] - supe / supo | `known` [noun] - sabido / conocido | Verb |
 | `take` [teik] - tomar | `took` [tuk] - tomé | `taken` [teiken] - tomado | Verb |
 | `see` [si] - ver | `saw` [so] - vi / vio | `seen` [sin] - visto | Verb |
+| `watch` [uach] - mirar / observar | `watched` [uacht] - miré | `wacthed` [uatch] - mirado | Verb |
 | `come` [kam] - venir | `came` [keim] - vine | `come` [kam] - venido | Verb |
 | `think` [zink] - pensar | `thought` [zot] - pensé | `thought` [zot] - pensado | Verb |
 | `look` [luk] - mirar | `looked` [lukt] - miré | `looked` [lukt] - mirado | Verb |
@@ -37,8 +38,10 @@
 | `begin` [biguin] - empezar | `began` [bigan] - empecé | `begun` [bigon] empezado | Verb |
 | `start` [start] - comenzar | `started` [started] - comencé | `started` [started] - comenzado | Verb |
 | `help` [jelp] - ayudar | `helped` [helpt] - ayudé | `helped` [helpt] - ayudado | Verb |
+| `speak` [spik] - hablar | `spoke` [spouk] - hablé | `spoken` [spouken] - hablado | Verb |
 | `talk` [tok] - hablar | `talked` [tokt] - hablé | `talked` [tokt] - hablado | Verb |
 | `show` [shou] - mostrar | `showed` [shoud] - mostré | `shown` [shon] - mostrado | Verb |
+| `listen` [lisen] - escuchar | `listened` [lisend] - escuché | `listened` [lisend] - escuchado | Verb |
 | `hear` [jir] - oír | `heard` [jerd] - oí | `heard` [jerd] - oído | Verb |
 | `play` [plei] - jugar | `played` [pleid] - jugué | `played` [pleid] - jugado | Verb |
 | `run` [ran] - correr | `ran` [ran] - corrí | `ran` [ran] - corrido | Verb |
@@ -58,14 +61,13 @@
 | `continue` [kontiniu] - continuar | `continued` [kontiniud] - continué | `continued` [kontiniud] - continuado | Verb |
 | `set` [set] - establecer / poner | `set` [set] - establecí | `set` [set] - establecido | Verb |
 | `learn` [lern] - aprender | `learned` / `learnt` [lernd / lernt] - aprendí | `learned` / `learnt` [lernd / lernt] - aprendido | Verb |
+| `teach` [tich] - enseñar | `taught` [tot] - enseñé / enseñó | `taught` [tot] - enseñado | Verb |
 | `change` [cheynj] - cambiar | `changed` [cheynjd] - cambié | `changed` [cheynjd] - cambiado | Verb |
 | `lead` [lid] - liderar / guiar | `led` [led] - guié | `led` [led] - guiado | Verb |
 | `understand` [anderstand] - entender | `understood` [anderstud] - entendí | `understood` [anderstud] - entendido | Verb |
-| `watch` [uach] - mirar / observar | `watched` [uacht] - miré | `wacthed` [uatch] - mirado | Verb |
 | `follow` [falow] - seguir | `followed` [faloud] - seguí | `followed` [faloud] - seguido | Verb |
 | `stop` [stap] - parar | `stoped` [stapt] - paré | `stoped` [stapt] - parado | Verb |
 | `create` [krieit] - crear | `created` [krieted] - creé | `created` [krieted] - creado | Verb |
-| `speak` [spik] - hablar | `spoke` [spouk] - hablé | `spoken` [spouken] - hablado | Verb |
 | `read` [rid] - leer | `read` [red] - leí | `read` [red] - leído | Verb |
 | `allow` [alau] - permitir | `allowed` [alaud] - permití | `allowed` [alaud] - permitido | Verb |
 | `add` [ad] - agregar | `added` [aded] - agregué | `added` [aded] - agrego | Verb |
@@ -104,9 +106,26 @@
 | `travel` [travel] - viajar | `traveled` [traveld] - viajé | `traveled` [traveld] - viajado | Verb |
 | `improve` [impruv] - mejorar | `improved` [impruvd] - mejoré | `improved` [impruv] - mejorado | Verb |
 | `finish` [finish] - terminar | `finished` [finisht] - terminé | `finished` [finisht] - terminado | Verb |
-| `
-
-
+| `eat` [it] - comer | `ate` [eit] - comí / comió | `eaten` [iten] - comido | Verb |
+| `lie` [lai] - mentir | `lied` [laid] - mentí | `lied` [liad] - mentido | Verb |
+| `lie` [lai] - acostarse / recostarse | `lay` [lei] - acosté / acostó | `lain` [lein] - acostado | Verb |
+| `laugh` [laf] - reir | `laughed` [laft] - reí | `laughed` [laft] - reído | Verb |
+| `wear` [uer] - vestir / llevar puesto | `wore` [uor] - vestí / llevaba puesto | `worn` [uorn] - vestido / llevado puesto | Verb |
+| `wash` [uash] - lavar | `washed` [uasht] - lavé | `washed` [uasht] - lavado | Verb |
+| `enjoy` [enyoí] - disfrutar | `enjoyed` [enyoíd] - disfruté | `enjoyed` [enyoíd] - disfrutado | Verb |
+| `cook` [kuk] - cocinar | `cooked` [kukt] - cociné | `cooked` [kukt] - cocinado | Verb |
+| `look` [luk] - mirar / parecer | `looked` [lukt] - miré / pareció | `looked` [lukt] - mirado / parecido | Verb |
+| `sleep` [slip] - dormir | `slept` [slept] - dormí | `slept` [slept] - dormido | Verb |
+| `shine` [shain] -  brillar / iluminar | `shone` [shon] - brilló / iluminó | `shone` [shon] - brillado / iluminado | Verb |
+| `dry` [drai] - secar/secarse | `dried` [draid] - sequé / se secó | `dried` [draid] - secado | Verb |
+| `forget` [forguet] - olvidar | `forgot` [forgot] - olvidé | `forgotten` [forgoten] - olvidado | Verb |
+| `forward` [for-uard] - reenviar / avanzar | `forwarded` [for-uarded] - reenvié | `forwarded` [for-uarded] - reenviado | Verb |
+| `throw` [zrou] - lanzar / tirar | threw [zru] - lancé | `thrown` [zron] - lanzado | Verb |
+| `study` [stadi] - estudiar | `studied` [stadid] - estudié | `studied` [stadid] - estudiado | Verb |
+| `drink` [drink] - beber | `drank` [drank] - bebí | `drank` [drank] - bebido | Verb |
+| `dream` [drim] - soñar | `dreamed` / `dreamt` [drimd] - soñé | `dreamed` / `dreamt` [drimd] - soñado | Verb |
+| `drive` [draiv] - conducir | `drove` [drov] - conduje | `driven` [driven] - conducido | Verb |
+| `may` [mei] - poder / permiso / posibilidad | ⚠️ migth [mait] - podría / quizás | ⚠️ | Verb |
 
 ## Adverb
 
