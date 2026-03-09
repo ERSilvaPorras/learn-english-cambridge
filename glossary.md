@@ -1,184 +1,123 @@
-| Concept | Description |
-| --- | --- |
-| `already` | ya |
-| `at least` | al menos |
-| `there are` | hay |
-| `around` | alrededor o aproximado |
-| `them` | ellos/las/los |
-| `[verb] them` | aras/remos/los/las |
-| `sentence` | oracion |
-| `explanation` | explicacion |
-| `means` | significa |
-| `meaning` | significado |
-| `remember` | recordar |
-| `so` | para |
-| `has been` | fue / ha sido |
-| `without` | sin |
-| `believe` | creer |
-| `way` | manera/forma |
-| `it` | que |
-| `that` | que |
-| `as they` | ya que |
-| `best` | mejor |
-| `because` | porque |
-| `often` | a menudo |
-| `there is not` | no hay |
-| `just` | solo |
-| `saying` | decir |
-| `also` | tambien |
-| `which` | que |
-| `talk` | hablar |
-| `tell` | decir/contar/informar/indicar |
-| `there is` | hay |
-| `understand` | comprender |
-| `should` | deberia |
-| `with you` | contigo |
-| `you may` | puede/s |
-| `what is` | Que |
-| `own` | propio |
-| `is so` | es asi |
-| `a lot` | mucho |
-| `carefully` | cuidadosamente |
-| `then` | luego/entonces |
-| `how much` | cuanto |
-| `see` | ver |
-| `learnt` | aprendido/aprendió |
-| `have` | tiene/n |
-| `forgotten` | oldidado/a |
-| `are not in` | no estan |
-| `hear` | escuchar |
-| `who` | quien/a quien |
-| `as well` | tambien/ademas |
-| `Here` | Aqui / en |
-| `Here is/are` | A continuacion / Aqui tiene / Aqui hay |
-| `beginning` | iniciando |
-| `full stop` | punto |
-| `capital letter` | letra mayuscula |
-| `ending` | finalizando |
-| `reply` | respuesta |
-| `question mark` | signo de pregunta |
-| `match` | emparejar/coincidir |
-| `draw` | dibujar |
-| `fill` | rellenar |
-| `gaps` | vacios/huecos |
-| `mistakes` | errores |
-| `yourself` | usted mismo |
-| `look` | mira |
-| `these` | estas/os |
-| `opossite` | enfrente/ al lado |
-| `say` | decir |
-| `men` | hombres |
-| `man` | hombre |
-| `it is / it's` | eso es `respuesta` |
-| `Is there` | Hay? |
-| `keep` | consulta |
-| `could` | podria |
-| `when` | cuando |
-| `than` | que/ que en |
-| `in writing` | por escrito |
-| `begin` | inicia |
-| `think` | pensar |
-| `saw` | sierra/cortar/ |
-| `I saw` | Vi |
-| `suitcase` | maleta |
-| `picture` | imagen |
-| `knife` | cuchillo |
-| `fork` | tenedor |
-| `eat` | comer |
-| `spoon` | cucharon |
-| `glass` | vaso/vidrio |
-| `mug` | taza |
-| `drink` | beber |
-| `wheel` | rueda |
-| `again` | de nuevo/nuevamente/otra vez |
-| `weather` | tiempo |
-| `hot` | caliente |
-| `warm` | calido/caluroso |
-| `cool` | fresco |
-| `cold` | frio |
-| `travel` | viaje |
-| `can go` | puede ir |
-| `dark` | oscuro |
-| `wet` | humedo |
-| `dry` | seco |
-| `wash` | lavar |
-| `train` | tren |
-| `rain` | lluvia |
-| `rainy` | lluvioso |
-| `ice` | hielo/helado |
-| `snow` | nieve |
-| `plane` | avion/plano |
-| `a plane lands` | aterriza un avion |
-| `sunny` | soleado |
-| `forniture` | muebles |
-| `desk` | escritorio |
-| `clothes` | ropa |
-| `dress` | vestido |
-| `shirt` | camisa |
-| `hat` | sombrero |
-| `a meal` | una comida |
-| `a appointment` | una cita |
-| `journey` | viaje |
-| `enjoy` | disfrutar/ disfrute de |
-| `our` | nuestro/a |
-| `See you later` | Hasta luego |
-| `meet me` | verme |
-| `participle` | participio |
-| `late` | tarde |
-| `scared` | asustado |
-| `ill` | enfermo/indispuesto |
-| `sick` | enfermo/harto |
-| `tired` | cansado |
-| `hungry` | hambriento |
-| `hangry` | enojado |
-| `Those` | es@s/aquell@s |
-| `heat` | calor |
-| `here is` | Aqui esta/aqui |
-| `kind` | amable |
-| `that is` | eso es |
-| `nice` | agradable/bonito |
-| `bag` | bolsa |
-| `thirsty` | sediento |
-| `mister/Mr` | señor |
-| `early` | temprano |
-| `coat` | abrigo |
-| `hands` | manos |
-| `well` | bien |
-| `shoes` | zapatos/calzado |
-| `measure` | medir |
-| `near` | cerca de |
-| `her` | su |
-| `wear` | desgaste/uso/usar/llevar |
-| `spelling` | ortografia |
-| `vowel` | vocal |
-| `consonant` | consonante |
-| `sit` | sentar |
-| `lie` | mentir/estar/tumbarse/tenderse/yacer/encontrarse/acostarse |
-| `floor` | suelo |
-| `holiday` | vacaciones |
-| `cook` | cocinar |
-| `happen` | suceder |
-| `happening` | sucediendo |
-| `lawyer` | abogad@ |
-| `laugh` | reir |
-| `shine` | brillar |
-| `shop` | tienda |
-| `newspaper` | periodico |
-| `feel` | sentir |
-| `umbrella` | paraguas |
-| `broken` | roto |
-| `clock` | reloj |
-| `look at` | mirar algo especifico |
-| `make` | producir/crear |
-| `do` | hacer algo en gral |
-| `made` | producido/creado |
-| `teach` | enseñar |
-| `arrive` | llegar |
-| `young` | joven |
-| `dirty` | sucio |
-| `expensive` | costoso |
-| `boil` | hervir |
-| `same` | mismo |
-| `ring` | anillo |
-| `quiet` | tranquil@/silencios@/callad@ |
-| `meat` | carne |
+| Concept | Phonetic | Grammar Word | Descrption |
+| ------- | -------- | ------------ | ---------- |
+
+## Verb
+
+| Present | Past Simple | Past Participle | Grammar Word |
+| ------- | ----------- | --------------- | ------------ |
+| `be` [bi] - ser | `was` / `were` [woz / wer] - fui / fue / fueron | `been` [bin] - sido / estado | Verb |
+| `have` [jav] - tener | `had` [jad] - tuve / tenia | `had` [jad] - tenido | Verb |
+| `do` [du] - hacer | `did` [did] - hice / hizo | `done` [dan] - hecho | Verb |
+| `make` [meik] - hacer / crear | `made` [meid] - hice / hizo | `made` [meid] - hecho | Verb |
+| `go` [gou] - ir | `went` [went] - fui / fue | `gone` [gon] - ido | Verb |
+| `get` [get] - obtener / conseguir | `got` [got] | `got` / `gotten` [got / goten] - obtenido | Verb |
+| `say` [sei] - decir | `said` [sed] - dije / dijo | `said` [sed] - dicho | Verb |
+| `know` [nou] - saber / conocer | `knew` [niu] - supe / supo | `known` [noun] - sabido / conocido | Verb |
+| `take` [teik] - tomar | `took` [tuk] - tomé | `taken` [teiken] - tomado | Verb |
+| `see` [si] - ver | `saw` [so] - vi / vio | `seen` [sin] - visto | Verb |
+| `come` [kam] - venir | `came` [keim] - vine | `come` [kam] - venido | Verb |
+| `think` [zink] - pensar | `thought` [zot] - pensé | `thought` [zot] - pensado | Verb |
+| `look` [luk] - mirar | `looked` [lukt] - miré | `looked` [lukt] - mirado | Verb |
+| `want` [uont] - querer | `wanted` [uanted] - quise / queria | `wanted` [uanted] - querido | Verb |
+| `give` [giv] - dar | `gave` [geiv] - di | `given` [given] - dado | Verb |
+| `use` [ius] - usar | `used` [iust] - usé | `used [iust] - usado | Verb |
+| `find` [faind] - encontrar | `found` [faund] - encontre | `found` [faund] - encontrado | Verb |
+| `tell` [tel] - decir / contar | `told` [told] - dije / conté | `told` [told] - dicho / contado | Verb |
+| `ask` [ask] - preguntar | `asked` [askt] - pregunté | `asked` [askt] - preguntado | Verb |
+| `work` [uork] - trabajar | `worked` [uorkt] - trabajé | `worked` [uorkt] - trabajado | Verb |
+| `feel` [fil] - sentir | `felt` [felt] - sentí | `felt` [felt] - sentido | Verb
+| `leave` [liv] - dejar / irse | `left` [left] - dejé | `left` [left] - dejado | Verb |
+| `call` [kol] - llamar | `called` [kold] - llamé | `called` [kold] - llamado | Verb |
+| `need` [nid] - necesitar | `needed` [nided] - necesité | `needed` [nided] - necesitado | Verb |
+| `become` [bikam] - convertirse | `became` [bikem] - convertí | `become` [bikam] - convertido | Verb |
+| `put` [put] - poner | `put` [put] - puse | `put` [put] - puesto | Verb |
+| `mean` [min] - significar | `meant` [ment] - significó | `meant` [ment] - significado | Verb |
+| `keep` [kip] - mantener | `kept` [kept] - mantuve | `kept` [kept] - mantenido | Verb |
+| `let` [let] - permitir | `let` [let] - permití | `let` [let] - permitido | Verb |
+| `begin` [biguin] - empezar | `began` [bigan] - empecé | `begun` [bigon] empezado | Verb |
+| `start` [start] - comenzar | `started` [started] - comencé | `started` [started] - comenzado | Verb |
+| `help` [jelp] - ayudar | `helped` [helpt] - ayudé | `helped` [helpt] - ayudado | Verb |
+| `talk` [tok] - hablar | `talked` [tokt] - hablé | `talked` [tokt] - hablado | Verb |
+| `show` [shou] - mostrar | `showed` [shoud] - mostré | `shown` [shon] - mostrado | Verb |
+| `hear` [jir] - oír | `heard` [jerd] - oí | `heard` [jerd] - oído | Verb |
+| `play` [plei] - jugar | `played` [pleid] - jugué | `played` [pleid] - jugado | Verb |
+| `run` [ran] - correr | `ran` [ran] - corrí | `ran` [ran] - corrido | Verb |
+| `move` [muv] - mover | `moved` [muvd] - moví | `moved` [muvd] - movido | Verb |
+| `live` [liv] - vivir | `lived` [livd] - viví | `lived` [livd] - vivido | Verb |
+| `believe` [biliv] - creer | `believed` [bilivd] - creí | `believed` [bilivd] - creído | Verb |
+| `bring` [bring] - traer | `brought` [brot] - traje | `brought` [brot] - traído | Verb |
+| `happen` [japen] - suceder | `happened` [japend] - sucedió | `happend` [japend] - sucedido | Verb |
+| `write` [rait] - escribir | `wrote` [rout] - escribí | `written` [riten] escrito | Verb |
+| `provide` [provaid] - proveer | `provaided` [provaidd] - proveyó | `provided` [provaidd] - provisto | Verb |
+| `sit` [sit] - sentarse | `sat` [sat] - senté | sat [sat] - sentado | Verb |
+| `stand` [stand] - estar de pie | `stood` [stud] - estuve de pie | `stood` [stud] - estado de pie | Verb |
+| `lose` [luz] - perder | `lost` [lost] perdí | `lost` [lost] - perdido | Verb |
+| `pay` [pei] - pagar | `paid` [peid] - pagué | `paid` [peid] - pagado | Verb |
+| `meet` [mit] - reunirse / conocer | `meet` [mit] - reuní / conocí | `meet` [mit] - reunido / conocido | Verb |
+| `include` [inklud] - incluir | `included` [inkluded] - incluí | `included` [inkluded] - incluido | Verb |
+| `continue` [kontiniu] - continuar | `continued` [kontiniud] - continué | `continued` [kontiniud] - continuado | Verb |
+| `set` [set] - establecer / poner | `set` [set] - establecí | `set` [set] - establecido | Verb |
+| `learn` [lern] - aprender | `learned` / `learnt` [lernd / lernt] - aprendí | `learned` / `learnt` [lernd / lernt] - aprendido | Verb |
+| `change` [cheynj] - cambiar | `changed` [cheynjd] - cambié | `changed` [cheynjd] - cambiado | Verb |
+| `lead` [lid] - liderar / guiar | `led` [led] - guié | `led` [led] - guiado | Verb |
+| `understand` [anderstand] - entender | `understood` [anderstud] - entendí | `understood` [anderstud] - entendido | Verb |
+| `watch` [uach] - mirar / observar | `watched` [uacht] - miré | `wacthed` [uatch] - mirado | Verb |
+| `follow` [falow] - seguir | `followed` [faloud] - seguí | `followed` [faloud] - seguido | Verb |
+| `stop` [stap] - parar | `stoped` [stapt] - paré | `stoped` [stapt] - parado | Verb |
+| `create` [krieit] - crear | `created` [krieted] - creé | `created` [krieted] - creado | Verb |
+| `speak` [spik] - hablar | `spoke` [spouk] - hablé | `spoken` [spouken] - hablado | Verb |
+| `read` [rid] - leer | `read` [red] - leí | `read` [red] - leído | Verb |
+| `allow` [alau] - permitir | `allowed` [alaud] - permití | `allowed` [alaud] - permitido | Verb |
+| `add` [ad] - agregar | `added` [aded] - agregué | `added` [aded] - agrego | Verb |
+| `spend` [spend] - gastar / pasar tiempo | `spent` [spent] - gasté | `spent` [spent] - gasto | Verb |
+| `grow` [grou] - crecer | grew [gru] - crecí | `grown` [groun] - crecido | Verb |
+| `open` [oupen] - abrir | `opened` [oupent] - abrí | `opened` [oupent] - abierto | Verb |
+| `walk` [uok] -  caminar | `walked` [uokt] - caminé | `walked` [uokt] - caminado | Verb |
+| `win` [uin] - ganar | `won` [uan] - gané | `won` [uan] - ganado | Verb |
+| `offer` [ofer] - ofrecer | `offered` [oferd] - ofrecí | `offered` [oferd] - ofrecido | Verb |
+| `remember` [rimember] - recordar | `remenbered` [rimenberd] - recordé | `remembered` [rimemberd] - recordado | Verb |
+| `love` [lav] -  amar | `loved` [lavd] - amé | `loved` [lavd] - amado | Verb |
+| `consider` [konsider] - considerar | `considered` [konsiderd] - consideré | `considered` [konsiderd] - considerado | Verb |
+| `appear` [apir] aparecer | `appeared` [apird] - apareció | `appeared` [apird] - aparecido | Verb |
+| `buy` [bai] - comprar | `bought` [bot] - compré | `bought` [bot] - comprado | Verb |
+| `wait` [ueit] - esperar | `waited` [ueited] - esperé | `waited` [ueited] - esperado | Verb |
+| `serve` [serv] - servir | `served` [servd] - serví | `serverd` [servd] - servido | Verb |
+| `die` [dai] - morir | `died` [daid] - morí | `died` [daid] - muerto | Verb |
+| `send` [send] - enviar | `sent` [sent] - envié | `sent` [sent] - enviado | Verb|
+| `except` [except] - esperar / prever | `excepted` [excepted] - esperé | `excepted` [excepted] - esperado |Verb |
+| `build` [bild] - construir | `built` [bilt] - construí | `built` [bilt] - construido | Verb |
+| `stay` [stei] - quedarse | `stayed` [steid] - quedé | `stayed` [steid] - quedado | Verb |
+| `fall` [fol] - caer | `fell` [fel] - caí | `fallen` [folen] - caido | Verb |
+| `cut` [kat] - cortar | `cut` [kat] - corté | `cut` [kat] - cortado | Verb |
+| `reach` [rich] - alcanzar | `reached` [richt] - alcancé | `reached` [richt] - alcanzado | Verb |
+| `kill` [kil] - matar | `killed` [kild] - maté| `killed` [kild] - matado | Verb |
+| `remain` [rimein] - permanecer | `remained` [rimeind] - permanecí | `remained` [rimeind] - permanecido |
+| `suggest` [sagest] - sugerir | `suggested` [sagested] - sugerí | `suggested` [sagested] - sugerido | Verb |
+| `raise` [reiz] - levantar | `raised` [reizd] - levanté | `raised` [reizd] - levantado | Verb |
+| `pass` [pas] - pasar | `passed` [past] - pasé | `passed` [past] - pasado | Verb |
+| `sell` [sel] - vender | `sold` [sold] - vendí | `sold` [sold] - vendido | Verb |\
+| `require` [rikwair] - requerir | `required` [rikwaird] - requerí | `required` [rikwaird] - requerido | Verb |
+| `report` [ripor] - reportar | `reported` [ripord] - reporté | `reported` [ripord] - reportado | Verb |
+| `decide` [disaid] - decidir | `decided` [disaided] - decidí | `decided` [disaided] - decidido | Verb |
+| `pull` [pul] - tirar / jalar | `pulled` [puld] - tiré | `pulled` [puld] - tirado | Verb |
+| `return` [ritern] - regresar | `returned` [riternd] - regresé | `returned` [riternd] - regresado | Verb |
+| `travel` [travel] - viajar | `traveled` [traveld] - viajé | `traveled` [traveld] - viajado | Verb |
+| `improve` [impruv] - mejorar | `improved` [impruvd] - mejoré | `improved` [impruv] - mejorado | Verb |
+| `finish` [finish] - terminar | `finished` [finisht] - terminé | `finished` [finisht] - terminado | Verb |
+| `
+
+
+
+## Adverb
+
+| Concept | Phonetic | Grammar Word | Descrption |
+| ------- | -------- | ------------ | ---------- |
+## Noun
+
+| Concept | Phonetic | Grammar Word | Descrption |
+| ------- | -------- | ------------ | ---------- |
+
+## Adjective
+
+| Concept | Phonetic | Grammar Word | Descrption |
+| ------- | -------- | ------------ | ---------- |
