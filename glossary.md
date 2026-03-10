@@ -154,7 +154,8 @@
 | `mind` [maind] - importar / cuidar / prestar atención | `minded` [main-ded] - importó / cuidó | `minded` [main-ded] - importó / cuidó | Verb |
 | `behave` [bi-jeiv] - comportarse | `behaved` [bi-jeivd] - se comportó | `behaved` [bi-jeivd] - comportado | Verb |
 | `reinforce` [re-in-fors] - reforzar | `reinforced` [re-in-forst] - reforzó | `reinforced` [re-in-forst] - reforzó | Verb | 
-
+| `arrive` [a-raiv] - llegar | `arrived` [a-raivd] - llegó | `arrived` [a-raivd] - llegado |
+| `shape` [sheip] - dar forma / moldear | `shapped` [sheipt] - formó / moldeó | `shapped` [sheipt] - formado / modelado | Verb |
 
  
 ## 🍁 Verb [Present Participle]
@@ -198,6 +199,44 @@
 | `over` 🟢🔴 | [ou-ver] | Adverb | por encima / al otro lado | 
 | `tomorrow` ⚪ | [tu-mo-rou] | Adverb | mañana |
 | `yesterday` ⚪ | [ies-ter-dei] | Adverb | ayer |
+| `also` | [ol-sou] | Adverb | también |
+| `along` 🔴 | [a-long] | Adverb | junto |
+| `there` | [der] | Adverb | allí / ahí |
+| `here` | [jir] | Adverb | aquí |
+| `down` 🔴 | [daun] | Adverb | abajo |
+| `somebody` | [sam-bo-di] | Adverb | alguien |
+| `very` | [ve-ri] | Adverb | muy |
+| `really` | [ri-a-li] | Adverb | realmente |
+| `quickly` | [kwik-li] | Adverb | rapidamente / con rapidez |
+| `slowly` | [slou-li] | Adverb | lentamente |
+| `rarely` | [rer-li] | Adverb | raramente |
+| `yet` | [iet] | Adverb | todavía |
+| `again` | [a-gen] | Adverb | otra vez |
+| `almost` | [ol-most] | Adverb | casi |
+| `enough` | [i-naf] | Adverb | suficiente |
+| `too` | [tu] | Adverb | demasiado |
+| `maybe` | [mei-bi] | Adverb | quizás |
+| `perhaps` | [per-japs] | Adverb | quizás |
+| `just` | [yast] | Adverb | solo / justo |
+| `even` | [i-ven] | Adverb | incluso |
+| `still` ⚪🟢 | [stil] | Adverb | todavía / aún |
+| `soon` | [sun] | Adverb | pronto |
+| `finally` | [fai-na-li] | Adverb | finalmente |
+| `first` | [ferst] | Adverb | primero |
+| `second` | [se-kond] | Adverb | segundo |
+| `last` | [last] | Adverb | último |
+| `next` | [nekst] | Adverb | siguiente |
+| `before` | [bi-for] | Adverb | antes |
+| `after` | [af-ter] | Adverb | después |
+| `however` | [jau-e-ver] | Adverb | sim embargo |
+| `therefore` | [der-for] | Adverb | por lo tanto |
+| `instead` | [in-sted] | Adverb | en lugar de |
+| `otherwise` | [a-der-uais] | Adverb | de otra manera |
+| `besides` | [bi-saidz] | Adverb | además |
+| `meanwhile` | [min-uial] | Adverb | mientras tanto |
+| `overall` | [ou-ver-ol] | Adverb | en general |
+| `basically` | [bei-si-ka-li] | Adverb | básicamente |
+| `actually` | [ak-chu-a-li] | Adverb | en realidad |
 
 ## ⚪ Noun
 
@@ -256,6 +295,14 @@
 | `birth` | [berth] | Noun | nacimiento |
 | `mind` ⚫ | [maind] | Noun | mente |
 | `behavio[r/ur]` | [bi-jei-vior] | Noun | comportamiento / conducta |
+| `appoinment` | [a-poin-ment] | Noun |   cita / turno / reunion programada |
+| `beans` | [biins] | Noun | frijoles / judías | 
+| `beer` | [bir] | Noun | cerveza |
+| `priority` | [pri-or-i-ti] | Noun | prioridad |
+| `usefulness` | [ius-ful-nes] | Noun | utilidad / provecho |
+| `quality` | [ku-a-li-ti] | Noun | calidad |
+| `shape` ⚫ | [sheip] | Noun | forma |
+| `still` 🟣🟢 | [stil] | Noun | silencio / quietud |
 | `game` 
 
 ## 🔵 Pronoun
@@ -276,6 +323,9 @@
 | `any` | [eni] | Pronoun | alguno / ninguno |
 | `them` | [dem] | Pronoun | ell@s / l@s |
 | `him` | [jim] | Pronoun | lo / le / a él |
+| `these` | [diiz] | Pronoun | est@s |
+| `her` | [jer] | Pronoun | su / de ella |
+| 
 
 ## 🟠 Determiner (da informacion sobre cantidad o posesion)
 | Concept | Phonetic | Grammar Word | Descrption |
@@ -291,13 +341,18 @@
 | `around` 🟣 | [a-raund] | Preposition | alrededor / por ahí |
 | `over` 🟣🟢 | [ou-ver] | Preposition | sobre / encima de |
 | `with` | [uith] | Preposition | con |
-
+| `along` 🟣 | [a-long] | Preposition | a lo largo |
+| `down` 🟣 | [daun] | Preposition | hacia abajo |
+| `for` | [for] | Preposition | para / por | 
+| `at` | [at] | Preposition | en / a |
+| `during` | [diu-ring] | Preposition | durante |
+| `until` | [an-til] | Preposition | hasta |
+| 
 
 ## 🟢 Adjective
 
 | Concept | Phonetic | Grammar Word | Descrption |
 | ------- | -------- | ------------ | ---------- |
-| `better` | [be-ter] | Adjective | mejor |
 | `rich` | [rich] | Adjective | rico |
 | `heavy` | [je-vi] | Adjective | pesado / intenso / fuerte |
 | `ill` | [il] | Adjective | enfermo |
@@ -310,13 +365,10 @@
 | `well` | [uel] | Adjective | bien |
 | `important` | [im-por-tant] | Adjective | importante |
 | `fun` | [fan] | Adjective | divertido |
-| `quickly` | [kwik-li] | Adjective | rapidamente / con rapidez |
 | `cheaply` | [chip-li] | Adjective | de manera barata / economicamente |
 | `strange` | [streinch] | Adjective | extraño / raro |
 | `least` 🟣 | [list] | Adjective | el menos |
 | `warm` | [uorn] | Adjective | calido / tibio |
-| `early` 🟣 | [erli] | Adjective | temprano |
-| `late` 🟣 | [leit] | Adjective | tarde |
 | `available` | [a-vei-la-bol] | Adjective | disponible |
 | `unsavailable` | [an-a-vei-la-bol] | Adjective | no disponible |
 | `able` | [ei-bol] | Adjective | capaz / habilitado |
@@ -324,6 +376,59 @@
 | `over` 🟣🔴 | [ou-ver] | Adjective | terminado |
 | `entire` | [en-tai-er] | Adjective | entero / completo / total |
 | `phonetic` | [fo-ne-tik] | Adjective | fonético |
+| `awful` | [o-ful] | Adjective | horrible / terrible |
+| `boring` | [bo-ring] | Adjective | aburrido |
+| `still` ⚪🟣 | [stil] | Adjective | quieto / inmóvil |
+| `big` | [big] | Adjective | grande |
+| `small` | [smol] | Adjective | pequeño |
+| `long` | [long] | Adjective | largo |
+| `short` | [short] | Adjective | corto |
+| `high` | [jai] | Adjective | alto |
+| `low` | [lou] | Adjective | bajo |
+| `early` 🟣 | [erli] | Adjective | temprano |
+| `late` 🟣 | [leit] | Adjective | tarde |
+| `young` | [yang] | Adjective | joven |
+| `old` | [old] | Adjective | viejo |
+| `new` | [niu] | Adjective | nuevo |
+| `good` | [gud] | Adjective | bueno |
+| `bad` | [bad] | Adjective | malo |
+| `better` | [be-ter] | Adjective | mejor |
+| `best` | [best] | Adjective | el mejor |
+| `different` | [di-fe-rent] | Adjective | diferente |
+| `same` | [seim] | Adjective | mismo |
+| `important` | [im-por-tant] | Adjective | importante |
+| `possible` | [po-si-bol] | Adjective | posible |
+| `easy` | [i-si] | Adjective | fácil |
+| `difficult` | [di-fi-kalt] | Adjective | difícil |
+| `strong` | [strong] | Adjective | fuerte |
+| `weak` | [wik] | Adjective | débil |
+| `happy` | [ja-pi] | Adjective | feliz |
+| `sad` | [sad] | Adjective | triste |
+| `ready` | [re-di] | Adjective | listo |
+| `sure` | [shur] | Adjective | seguro |
+| `free` | [fri] | Adjective | libre |
+| `busy` | [bi-si] | Adjective | ocupado |
+| `full` | [ful] | Adjective | lleno |
+| `empty` | [emp-ti]  | Adjective | vacio |
+| `true` | [tru] | Adjective | verdadero |
+| `false` | [fols] | Adjective | falso |
+| `clear` | [klir] | Adjective | claro |
+| `simple` | [sim-pol] | Adjective | simple |
+| `special` | [spe-shal] | Adjective | especial |
+| `common` | [ko-mon] | Adjective | común |
+| `public` | [pab-lik] | Adjective | público |
+| `private` | [prai-vet] | Adjective | privado |
+| `local` | [lo-kal] | Adjective | local |
+| `national` | [na-sho-nal] | Adjective | nacional |
+| `international` | [in-ter-na-sho-nal] | Adjective | internacional |
+| `social` | [so-shal] | Adjective | social |
+| `economic` | [e-ko-no-mik] | Adjective | económico |
+| `political` | [po-li-ti-kal] | Adjective | político |
+| `cultural` | [kal-chu-ral] | Adjective | cultural |
+| `natural` | [na-chu-ral] | Adjective | natural |
+| `modern` | [mo-dern] | Adjective | moderno |
+| `traditional` | [tra-di-sho-nal] | Adjective | tradicional |
+| `popular` | [po-piu-lar] | Adjective | popular | 
 
 ## 🟤 Conjunction
 
@@ -333,3 +438,5 @@
 | `or` | [or] | Conjunction | o |
 | `because` | [bi-koz] | Conjuction | porque |
 | `than` | [dan] | Conjunction | que (comparación) | 
+| `while` | [uail] | Conjunction | mientras |
+| `although` | [ol-dou] | Conjunction | aunque |
