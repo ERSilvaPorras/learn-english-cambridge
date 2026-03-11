@@ -503,3 +503,17 @@
 | `than` | [dan] | Conjunction | que (comparación) | 
 | `while` | [uail] | Conjunction | mientras |
 | `although` | [ol-dou] | Conjunction | aunque |
+
+## Question
+
+| Question         | Phonetic  | Descrption |
+| ---------------- | --------  | ---------- |
+| `What ...?` | [uat ...?] | Que ...? |
+| `Who...?` | [ju...?] | Quien...? |
+| `Where...?` | [uer] | Donde...? |
+| `When...?` | [uen] | Cuando...? |
+| `Why...?` | [uai] | Por que...? |
+| `How long...?` | [jau long] | Cuanto tiempo ...? |
+| `How many...?` | [jau meni] | Cuantos...? |
+| `How much...?` | [jau mach] | Cuanto...? |
+| `Which...?` | [uich] | Cual...? |
