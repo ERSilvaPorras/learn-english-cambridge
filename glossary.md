@@ -171,7 +171,8 @@
 | `travel` [travel] - viajar | `traveled` [traveld] - viajé | `traveled` [traveld] - viajado | Verb |
 | `stay` [stei] - quedarse | `stayed` [steid] - quedé | `stayed` [steid] - quedado | Verb |
 | `move` [muv] - mover | `moved` [muvd] - moví | `moved` [muvd] - movido | Verb |
-| `
+| `wish [wish] - desear / quere / ojala | `wished` [wisht] - deseé / deseo | `wished` [wisht] deseado |
+| 
 
 ## 🍁 Verb [Present Participle]
 
